@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![@keshavsharma0017's Holopin board](https://holopin.me/keshavsharma0017)](https://holopin.io/@keshavsharma0017)
-<h1 align="center">Hi, I'm Virag</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
